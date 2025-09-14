@@ -33,7 +33,7 @@ Quando exigido pela legislação local (ex.: GDPR), solicitamos **consentimento*
 - Ao **desinstalar** o app, os dados locais são removidos. Logs/eventos de anúncios são tratados pelos provedores segundo suas políticas.
 
 ## 6) Seus direitos
-Dependendo da sua jurisdição, você pode ter direitos de **acesso, correção, exclusão** e **oposição**. Como não há backend próprio, use os controles do app (limpar dados) ou **desinstale** o app para remover dados locais.
+Dependendo da sua jurisdição, você pode ter direitos de **acesso, correção, exclusão** e **oposição**. Como não há backend próprio, **desinstale** o app para remover dados locais.
 
 ## 7) Crianças
 O Hydrato **não é destinado a menores de 13 anos**.
