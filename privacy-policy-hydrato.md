@@ -36,7 +36,7 @@ Quando exigido pela legislação local (ex.: GDPR), solicitamos **consentimento*
 Dependendo da sua jurisdição, você pode ter direitos de **acesso, correção, exclusão** e **oposição**. Como não há backend próprio, use os controles do app (limpar dados) ou **desinstale** o app para remover dados locais.
 
 ## 7) Crianças
-O Hydrato **não é destinado a menores de 13 anos**. Se soubermos de uso infantil, aplicaremos medidas necessárias (limitações de anúncios, etc.). Se o público-alvo incluir crianças, versões do app devem cumprir o **Families Policy** do Google Play e utilizar apenas **SDKs certificados para famílias**.
+O Hydrato **não é destinado a menores de 13 anos**.
 
 ## 8) Segurança
 Aplicamos boas práticas para proteger dados locais e comunicações. Nenhuma tecnologia é 100% segura.
